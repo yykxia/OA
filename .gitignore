@@ -1,0 +1,8 @@
+/bin/
+/extjs/
+/image/
+/obj/
+/Properties/
+/upload/
+*.csproj
+*.user
